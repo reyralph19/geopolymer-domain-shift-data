@@ -1,6 +1,6 @@
 # Dataset and Machine Learning Code for Domain Shift Analysis in Philippine Geopolymer Concrete
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23208469.svg)](https://doi.org/10.5281/zenodo.23208469)
 
 ## Overview
 This repository contains the datasets and machine learning code used to analyze the phenomenon of domain shift in geopolymer concrete. The study compares standard geopolymer concrete mixtures synthesized from highly reactive, spherical Class F fly ash against indigenous and recycled Philippine waste streams (e.g., angular volcanic ash, iron-rich nickel-laterite mine waste, and gold-mine tailings). 
