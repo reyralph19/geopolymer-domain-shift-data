@@ -1,0 +1,176 @@
+Reference,Precursor_Type,Precursor_kg_m3,Fine_Agg_kg_m3,Coarse_Agg_kg_m3,NaOH_kg_m3,Na2SiO3_kg_m3,Molarity_NaOH,SS_SH_Ratio,l_b_Ratio,Sand_Binder_Ratio,Si_Al_Ratio,SiO2_%,Al2O3_%,Fe2O3_%,CaO_%,MgO_%,Na2O_%,K2O_%,D50_um,SSA_m2_kg,Amorphous_Phase_%,Curing_Temp_C,Curing_Time_h,Age_Days,Strength_MPa
+"(Plando et al., 2025)",Taal Volcanic Ash (>63um),NaN,NaN,0,NaN,NaN,10,2.5,0.63,1,3.53,57.12,16.18,5.9,9.49,9.54,NaN,NaN,NaN,NaN,NaN,85,24,28,4.33
+"(Plando et al., 2025)",Taal Volcanic Ash (>63um),NaN,NaN,0,NaN,NaN,12,2.5,0.62,1,3.53,57.12,16.18,5.9,9.49,9.54,NaN,NaN,NaN,NaN,NaN,85,24,28,3.56
+"(Plando et al., 2025)",Taal Volcanic Ash (>63um),NaN,NaN,0,NaN,NaN,14,2.5,0.57,1,3.53,57.12,16.18,5.9,9.49,9.54,NaN,NaN,NaN,NaN,NaN,85,24,28,3.72
+"(Plando et al., 2025)",Taal Volcanic Ash (<63um),NaN,NaN,0,NaN,NaN,10,2.5,0.63,1,3.53,57.12,16.18,5.9,9.49,9.54,NaN,NaN,NaN,NaN,NaN,85,24,28,3.41
+"(Plando et al., 2025)",Taal Volcanic Ash (<63um),NaN,NaN,0,NaN,NaN,12,2.5,0.57,1,3.53,57.12,16.18,5.9,9.49,9.54,NaN,NaN,NaN,NaN,NaN,85,24,28,7.73
+"(Plando et al., 2025)",Taal Volcanic Ash (<63um),NaN,NaN,0,NaN,NaN,14,2.5,0.57,1,3.53,57.12,16.18,5.9,9.49,9.54,NaN,NaN,NaN,NaN,NaN,85,24,28,5.97
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,0.5,1,0,NaN,21.94,4.1,41.44,11.43,3.67,NaN,0.49,293.75,NaN,NaN,80,24,28,1.93
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,1,1,0,NaN,21.94,4.1,41.44,11.43,3.67,NaN,0.49,293.75,NaN,NaN,80,24,28,2.45
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,0.5,1,0,NaN,23.33,5.4,35.19,17.41,3.11,NaN,0.62,337.5,NaN,NaN,80,24,28,2.5
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,0.5,0.667,0,NaN,21.94,4.1,41.44,11.43,3.67,NaN,0.49,293.75,NaN,NaN,80,24,28,2.66
+"Longos et al., 2020",Nickel-Laterite Waste,NaN,0,0,NaN,NaN,12,0.5,0.429,0,NaN,20.54,2.79,47.68,5.46,4.23,NaN,0.35,250,NaN,NaN,80,24,28,3.01
+"Longos et al., 2020",Nickel-Laterite Waste,NaN,0,0,NaN,NaN,12,2,1,0,NaN,20.54,2.79,47.68,5.46,4.23,NaN,0.35,250,NaN,NaN,80,24,28,3.28
+"Longos et al., 2020",Nickel-Laterite Waste,NaN,0,0,NaN,NaN,12,1,0.429,0,NaN,20.54,2.79,47.68,5.46,4.23,NaN,0.35,250,NaN,NaN,80,24,28,3.78
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,1,0.667,0,NaN,21.94,4.1,41.44,11.43,3.67,NaN,0.49,293.75,NaN,NaN,80,24,28,4.02
+"Longos et al., 2020",Nickel-Laterite Waste,NaN,0,0,NaN,NaN,12,2,0.667,0,NaN,20.54,2.79,47.68,5.46,4.23,NaN,0.35,250,NaN,NaN,80,24,28,4.42
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,1,0.667,0,NaN,21.94,4.1,41.44,11.43,3.67,NaN,0.49,293.75,NaN,NaN,80,24,28,4.84
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,1,0.667,0,NaN,21.94,4.1,41.44,11.43,3.67,NaN,0.49,293.75,NaN,NaN,80,24,28,5.15
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,2,0.429,0,NaN,21.94,4.1,41.44,11.43,3.67,NaN,0.49,293.75,NaN,NaN,80,24,28,13.7
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,0.5,0.429,0,NaN,23.33,5.4,35.19,17.41,3.11,NaN,0.62,337.5,NaN,NaN,80,24,28,14.1
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,2,1,0,NaN,23.33,5.4,35.19,17.41,3.11,NaN,0.62,337.5,NaN,NaN,80,24,28,14.4
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,1,0.667,0,NaN,23.33,5.4,35.19,17.41,3.11,NaN,0.62,337.5,NaN,NaN,80,24,28,16.1
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,1,0.667,0,NaN,23.33,5.4,35.19,17.41,3.11,NaN,0.62,337.5,NaN,NaN,80,24,28,17.4
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,2,0.429,0,NaN,23.33,5.4,35.19,17.41,3.11,NaN,0.62,337.5,NaN,NaN,80,24,28,22.1
+"Longos et al., 2020",Fly Ash / Nickel-Laterite Waste Blend,NaN,0,0,NaN,NaN,12,1.92,0.438,0,NaN,23.31,5.39,35.21,17.38,3.11,NaN,0.62,337.33,NaN,NaN,80,24,28,36.3
+"Kalaw et al., 2016",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,0,28,0.13
+"Kalaw et al., 2016",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,0.25
+"Kalaw et al., 2016",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,0,28,0.06
+"Kalaw et al., 2016",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,0.46
+"Kalaw et al., 2016",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,0,28,2.13
+"Kalaw et al., 2016",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,7.19
+"Kalaw et al., 2016",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,0,28,3.61
+"Kalaw et al., 2016",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,6.06
+"Kalaw et al., 2016",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,0,28,1.26
+"Kalaw et al., 2016",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,4.3
+"Kalaw et al., 2016",Volcanic Ash / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,0,28,1.24
+"Kalaw et al., 2016",Volcanic Ash / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,2.04
+"Kalaw et al., 2016",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,0,28,0.78
+"Kalaw et al., 2016",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,2.15
+"Kalaw et al., 2016",Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,0,28,0.11
+"Kalaw et al., 2016",Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,1.93
+"Kalaw et al., 2021",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,64.32,19.42,8.4,3.64,2.37,1.86,NaN,NaN,NaN,NaN,25,0,28,0.13
+"Kalaw et al., 2021",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,64.32,19.42,8.4,3.64,2.37,1.86,NaN,NaN,NaN,NaN,80,24,28,0.25
+"Kalaw et al., 2021",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,64.73,21.77,8.19,2.47,1.59,1.26,NaN,NaN,NaN,NaN,25,0,28,0.06
+"Kalaw et al., 2021",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,64.73,21.77,8.19,2.47,1.59,1.26,NaN,NaN,NaN,NaN,80,24,28,0.46
+"Kalaw et al., 2021",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,59.06,20.01,7.44,10.66,1.49,1.35,NaN,NaN,NaN,NaN,25,0,28,2.13
+"Kalaw et al., 2021",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,59.06,20.01,7.44,10.66,1.49,1.35,NaN,NaN,NaN,NaN,80,24,28,7.19
+"Kalaw et al., 2021",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,54.87,16.48,7.15,17.29,2.22,2,NaN,NaN,NaN,NaN,25,0,28,3.61
+"Kalaw et al., 2021",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,54.87,16.48,7.15,17.29,2.22,2,NaN,NaN,NaN,NaN,80,24,28,6.06
+"Kalaw et al., 2021",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,55.69,21.19,6.73,14.95,0.65,0.8,NaN,NaN,NaN,NaN,25,0,28,1.26
+"Kalaw et al., 2021",Volcanic Ash / Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,55.69,21.19,6.73,14.95,0.65,0.8,NaN,NaN,NaN,NaN,80,24,28,4.3
+"Kalaw et al., 2021",Volcanic Ash / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,49.94,13.83,6.64,24.7,2.53,2.38,NaN,NaN,NaN,NaN,25,0,28,1.24
+"Kalaw et al., 2021",Volcanic Ash / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,49.94,13.83,6.64,24.7,2.53,2.38,NaN,NaN,NaN,NaN,80,24,28,2.04
+"Kalaw et al., 2021",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,65.14,24.13,7.98,1.29,0.8,0.66,NaN,NaN,NaN,NaN,25,0,28,0.78
+"Kalaw et al., 2021",Volcanic Ash / Red Clay Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,65.14,24.13,7.98,1.29,0.8,0.66,NaN,NaN,NaN,NaN,80,24,28,2.15
+"Kalaw et al., 2021",Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,51.17,20.89,6.01,21.18,0.18,0.58,NaN,NaN,NaN,NaN,25,0,28,0.11
+"Kalaw et al., 2021",Red Clay / Pen Shell Blend,NaN,NaN,NaN,NaN,NaN,12,0.4,4,0,NaN,51.17,20.89,6.01,21.18,0.18,0.58,NaN,NaN,NaN,NaN,80,24,28,1.93
+"(Kalaw et al., 2021)",Fly Ash / Bottom Ash / Rice Hull Ash Blend,NaN,0,0,NaN,NaN,12,NaN,0.25,0,3.23,65.73,20.33,3.19,5.62,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,18.1
+"(Kalaw et al., 2021)",Fly Ash Blend (Peroxide Foamed),NaN,0,0,NaN,NaN,12,NaN,0.25,0,3.23,65.73,20.33,3.19,5.62,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,0.49
+"(Kalaw et al., 2021)",Fly Ash Blend (Peroxide Foamed),NaN,0,0,NaN,NaN,12,NaN,0.25,0,3.23,65.73,20.33,3.19,5.62,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,0.43
+"(Kalaw et al., 2021)",Fly Ash Blend (Peroxide Foamed),NaN,0,0,NaN,NaN,12,NaN,0.25,0,3.23,65.73,20.33,3.19,5.62,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,0.71
+"(Kalaw et al., 2021)",Fly Ash Blend (Peroxide Foamed),NaN,0,0,NaN,NaN,12,NaN,0.25,0,3.23,65.73,20.33,3.19,5.62,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,0.45
+"(Kalaw et al., 2021)",Fly Ash Blend (Perborate Foamed),NaN,0,0,NaN,NaN,12,NaN,0.25,0,3.23,65.73,20.33,3.19,5.62,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,0.5
+"(Kalaw et al., 2021)",Fly Ash Blend (Perborate Foamed),NaN,0,0,NaN,NaN,12,NaN,0.25,0,3.23,65.73,20.33,3.19,5.62,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,0.37
+"(Kalaw et al., 2021)",Fly Ash Blend (Perborate Foamed),NaN,0,0,NaN,NaN,12,NaN,0.25,0,3.23,65.73,20.33,3.19,5.62,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,0.42
+"(Kalaw et al., 2021)",Fly Ash Blend (Perborate Foamed),NaN,0,0,NaN,NaN,12,NaN,0.25,0,3.23,65.73,20.33,3.19,5.62,NaN,NaN,NaN,NaN,NaN,NaN,80,24,28,0.4
+"(Aseniero et al., 2019)",Gold-Mine Tailings,NaN,0,0,NaN,NaN,5,NaN,0.2,0,4.81,52.2,9.71,28.9,1.82,NaN,NaN,2.7,NaN,NaN,NaN,25,0,7,5.48
+"Jamora et al., 2024",OPC,NaN,NaN,0,NaN,NaN,NaN,NaN,0.51,2.75,4.42,19.8,4.48,3.54,62.2,2.1,0.3,0.57,NaN,319.41,NaN,28.5,0,7,25.55
+"Jamora et al., 2024",OPC,NaN,NaN,0,NaN,NaN,NaN,NaN,0.51,2.75,4.42,19.8,4.48,3.54,62.2,2.1,0.3,0.57,NaN,319.41,NaN,28.5,0,28,30.08
+"Jamora et al., 2024",OPC,NaN,NaN,0,NaN,NaN,NaN,NaN,0.51,2.75,4.42,19.8,4.48,3.54,62.2,2.1,0.3,0.57,NaN,319.41,NaN,28.5,0,56,32.55
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.52,2.75,4.27,21.67,5.07,3.62,59.51,2.17,0.36,0.6,NaN,328.4,NaN,28.5,0,7,23.51
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.52,2.75,4.27,21.67,5.07,3.62,59.51,2.17,0.36,0.6,NaN,328.4,NaN,28.5,0,28,31.06
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.52,2.75,4.27,21.67,5.07,3.62,59.51,2.17,0.36,0.6,NaN,328.4,NaN,28.5,0,56,33.25
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.53,2.75,4.17,23.54,5.65,3.69,56.81,2.25,0.43,0.62,NaN,337.39,NaN,28.5,0,7,21.74
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.53,2.75,4.17,23.54,5.65,3.69,56.81,2.25,0.43,0.62,NaN,337.39,NaN,28.5,0,28,30.42
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.53,2.75,4.17,23.54,5.65,3.69,56.81,2.25,0.43,0.62,NaN,337.39,NaN,28.5,0,56,33.48
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.52,2.75,4.07,25.41,6.24,3.77,54.12,2.32,0.49,0.65,NaN,346.38,NaN,28.5,0,7,22.08
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.52,2.75,4.07,25.41,6.24,3.77,54.12,2.32,0.49,0.65,NaN,346.38,NaN,28.5,0,28,31.42
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.52,2.75,4.07,25.41,6.24,3.77,54.12,2.32,0.49,0.65,NaN,346.38,NaN,28.5,0,56,34.14
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.51,2.75,3.99,27.28,6.83,3.84,51.43,2.39,0.55,0.67,NaN,355.37,NaN,28.5,0,7,22.71
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.51,2.75,3.99,27.28,6.83,3.84,51.43,2.39,0.55,0.67,NaN,355.37,NaN,28.5,0,28,32.08
+"Jamora et al., 2024",OPC / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.51,2.75,3.99,27.28,6.83,3.84,51.43,2.39,0.55,0.67,NaN,355.37,NaN,28.5,0,56,35.09
+"(Pilien et al., 2023)",Fly Ash / Silica Fume Blend,NaN,NaN,0,NaN,NaN,11.44,1.85,0.91,1.16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,25,0,28,24.57
+"(Tigue et al., 2018)",Soil / Coal Fly Ash Blend,NaN,0,0,NaN,NaN,NaN,1,0.17,2.1,3.06,35.32,11.54,36.7,9.13,NaN,NaN,1.7,525.48,NaN,NaN,25,0,28,1
+"(Tigue et al., 2018)",Soil / Coal Fly Ash Blend (28d Acid),NaN,0,0,NaN,NaN,NaN,1,0.17,2.1,3.06,35.32,11.54,36.7,9.13,NaN,NaN,1.7,525.48,NaN,NaN,25,0,56,2.6
+"(Tigue et al., 2018)",Soil / Coal Fly Ash Blend (56d Acid),NaN,0,0,NaN,NaN,NaN,1,0.17,2.1,3.06,35.32,11.54,36.7,9.13,NaN,NaN,1.7,525.48,NaN,NaN,25,0,84,3.2
+"(Tigue et al., 2018)",Soil / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,1,0.53,6.67,2.88,24.65,8.55,44.63,16.04,NaN,NaN,1.18,1.92,NaN,NaN,25,0,28,0.455
+"(Tigue et al., 2018)",Soil / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,1,0.32,4,2.88,24.65,8.55,44.63,16.04,NaN,NaN,1.18,1.92,NaN,NaN,25,0,28,0.971
+"(Tigue et al., 2018)",Soil / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,2.5,0.53,6.67,2.88,24.65,8.55,44.63,16.04,NaN,NaN,1.18,1.92,NaN,NaN,25,0,28,0.045
+"(Tigue et al., 2018)",Soil / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,2.5,0.32,4,2.88,24.65,8.55,44.63,16.04,NaN,NaN,1.18,1.92,NaN,NaN,25,0,28,0.348
+"(Tigue et al., 2018)",Soil / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,1,0.53,6.67,2.88,24.65,8.55,44.63,16.04,NaN,NaN,1.18,1.92,NaN,NaN,25,0,28,0.149
+"(Tigue et al., 2018)",Soil / Fly Ash Blend,NaN,NaN,0,NaN,NaN,NaN,1,0.32,4,2.88,24.65,8.55,44.63,16.04,NaN,NaN,1.18,1.92,NaN,NaN,25,0,28,0.623
+"(Tigue et al., 2018)",Soil / Fly Ash / Volcanic Ash Blend,NaN,NaN,0,NaN,NaN,NaN,1,0.21,2.67,3.73,35.35,9.48,34.09,14.34,NaN,NaN,2.46,111.28,NaN,NaN,25,0,28,0.745
+"(Tigue et al., 2018)",Soil / Fly Ash / Volcanic Ash Blend,NaN,NaN,0,NaN,NaN,NaN,2.5,0.21,2.67,3.73,35.35,9.48,34.09,14.34,NaN,NaN,2.46,111.28,NaN,NaN,25,0,28,0.242
+"(Tigue et al., 2018)",Soil / Fly Ash / Volcanic Ash Blend,NaN,NaN,0,NaN,NaN,NaN,1,0.21,2.67,3.73,35.35,9.48,34.09,14.34,NaN,NaN,2.46,111.28,NaN,NaN,25,0,28,0.421
+"(Tigue et al., 2018)",Soil / Fly Ash Blend (Acid Soaked),NaN,NaN,0,NaN,NaN,NaN,1,0.32,4,2.88,24.65,8.55,44.63,16.04,NaN,NaN,1.18,1.92,NaN,NaN,25,0,56,2.62
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2,0.5,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,7.2
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,1,0.5,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,NaN
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2.5,0.5,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,5.33
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,1,0.35,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,9.51
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,1,0.45,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,9.03
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,1,0.4,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,9.2
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2,0.45,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,16.64
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2.5,0.45,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,21.78
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2.5,0.4,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,23.24
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2,0.3,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,24.13
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2,0.4,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,NaN
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2.5,0.3,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,2.44
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,1,0.3,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,4.72
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2.5,0.4,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,3.43
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2,0.5,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,10.09
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2,0.4,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,9.23
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2,0.45,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,23.48
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2.5,0.38,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,6
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,1,0.5,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,6.41
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2.5,0.35,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,20.2
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2,0.35,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,6.86
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2.49,0.381,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,16.75
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,1.79,0.329,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,23.08
+"Quiatchon et al., 2021",Fly Ash,NaN,0,0,NaN,NaN,NaN,2.37,0.361,0,NaN,57.2,21.8,4.73,6.9,9.9,NaN,NaN,NaN,NaN,NaN,32.5,0,28,21.51
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,7,52.78
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,14,53.99
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,28,53.21
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,7,40.21
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,14,43.45
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,28,45.11
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,7,35.66
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,14,38.01
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,28,40.33
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,7,29.87
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,14,31.22
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,28,33.15
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,7,19.49
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,14,21.05
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,28,23.94
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,7,20.11
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,14,22.87
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,28,24.22
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,7,23.45
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,14,25.88
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,28,27.01
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,7,25.01
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,14,28.32
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,220.24,NaN,NaN,25,0,28,30.11
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,7,55.43
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,14,57.55
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,28,56.98
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,7,45.99
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,14,48.01
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,28,50.12
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,7,38.65
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,14,41.22
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,28,43.88
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,7,30.54
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,14,33.76
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,28,35.03
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,7,22.62
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,14,24.87
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,28,25.99
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,7,25.13
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,14,28.76
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,28,30.22
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,7,28.98
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,14,31.54
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,28,33.78
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,7,30.12
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,14,34.65
+"(Quinagoran et al., 2026)",OPC / Mine Tailings Blend,NaN,NaN,0,NaN,NaN,NaN,NaN,0.26,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,167.57,NaN,NaN,25,0,28,36.19
+"(Uy et al., 2021)",Gold Mine Tailings,NaN,0,0,NaN,NaN,10,1,0.391,0,4.81,61.848,12.867,5.762,5.731,1.752,NaN,4.546,NaN,NaN,NaN,60,24,7,1.225
+"(Uy et al., 2021)",Gold Mine Tailings,NaN,0,0,NaN,NaN,10,1,0.391,0,4.81,61.848,12.867,5.762,5.731,1.752,NaN,4.546,NaN,NaN,NaN,60,24,28,1.626
+"(Uy et al., 2021)",Gold Mine Tailings,NaN,0,0,NaN,NaN,10,1,0.493,0,4.81,61.848,12.867,5.762,5.731,1.752,NaN,4.546,NaN,NaN,NaN,60,24,7,0.831
+"(Uy et al., 2021)",Gold Mine Tailings,NaN,0,0,NaN,NaN,10,1,0.493,0,4.81,61.848,12.867,5.762,5.731,1.752,NaN,4.546,NaN,NaN,NaN,60,24,28,1.362
+"(Uy et al., 2021)",Gold Mine Tailings,NaN,0,0,NaN,NaN,10,2.5,0.39,0,4.81,61.848,12.867,5.762,5.731,1.752,NaN,4.546,NaN,NaN,NaN,60,24,7,1.541
+"(Uy et al., 2021)",Gold Mine Tailings,NaN,0,0,NaN,NaN,10,2.5,0.39,0,4.81,61.848,12.867,5.762,5.731,1.752,NaN,4.546,NaN,NaN,NaN,60,24,28,1.636
+"(Uy et al., 2021)",Gold Mine Tailings,NaN,0,0,NaN,NaN,10,2.5,0.494,0,4.81,61.848,12.867,5.762,5.731,1.752,NaN,4.546,NaN,NaN,NaN,60,24,7,1.155
+"(Uy et al., 2021)",Gold Mine Tailings,NaN,0,0,NaN,NaN,10,2.5,0.494,0,4.81,61.848,12.867,5.762,5.731,1.752,NaN,4.546,NaN,NaN,NaN,60,24,28,1.237
